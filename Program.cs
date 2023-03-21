@@ -1,0 +1,15 @@
+﻿using Triangles;
+int[,] points1 = { { 10, 2 }, { 5, 4 }, { 8, 9 } };
+int[,] points2 = { { 1, 2 }, { 3, 4 }, { 5, 6 } };
+Triangle t1 = new Triangle(points1);
+Triangle t2 = new Triangle(points2);
+t1.Equality(t2);
+t1.Heights();
+t1.Area();
+t1.Bisectors();
+t1.Medians();
+t1.Perimetr();
+t1.Povorot(30);
+t1.PovorotCentr(30);
+t1.Serialize(@"C:\Users\Волти\Desktop\file.json");
+t2.Deserialize(@"C:\Users\Волти\Desktop\file.json");

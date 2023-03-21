@@ -1,0 +1,17 @@
+V:\c#kpi\Lab2_2\bin\Debug\net7.0\Lab2_2.exe
+V:\c#kpi\Lab2_2\bin\Debug\net7.0\Lab2_2.deps.json
+V:\c#kpi\Lab2_2\bin\Debug\net7.0\Lab2_2.runtimeconfig.json
+V:\c#kpi\Lab2_2\bin\Debug\net7.0\Lab2_2.dll
+V:\c#kpi\Lab2_2\bin\Debug\net7.0\Lab2_2.pdb
+V:\c#kpi\Lab2_2\obj\Debug\net7.0\Lab2_2.csproj.AssemblyReference.cache
+V:\c#kpi\Lab2_2\obj\Debug\net7.0\Lab2_2.GeneratedMSBuildEditorConfig.editorconfig
+V:\c#kpi\Lab2_2\obj\Debug\net7.0\Lab2_2.AssemblyInfoInputs.cache
+V:\c#kpi\Lab2_2\obj\Debug\net7.0\Lab2_2.AssemblyInfo.cs
+V:\c#kpi\Lab2_2\obj\Debug\net7.0\Lab2_2.csproj.CoreCompileInputs.cache
+V:\c#kpi\Lab2_2\obj\Debug\net7.0\Lab2_2.dll
+V:\c#kpi\Lab2_2\obj\Debug\net7.0\refint\Lab2_2.dll
+V:\c#kpi\Lab2_2\obj\Debug\net7.0\Lab2_2.pdb
+V:\c#kpi\Lab2_2\obj\Debug\net7.0\Lab2_2.genruntimeconfig.cache
+V:\c#kpi\Lab2_2\obj\Debug\net7.0\ref\Lab2_2.dll
+V:\c#kpi\Lab2_2\bin\Debug\net7.0\Newtonsoft.Json.dll
+V:\c#kpi\Lab2_2\obj\Debug\net7.0\Lab2_2.csproj.CopyComplete
